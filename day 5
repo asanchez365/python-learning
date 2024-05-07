@@ -1,0 +1,19 @@
+#while loop = execute some code WHILE some condition remains true
+
+name = input("Enter your name")
+
+while name =="":
+    print("You did not enter your name")
+
+age= int(input("ENter your age:"))
+while age <0:
+print("AGe cant be negative")
+age =int(input(Enter your name"))
+                   
+food = input ("Enter a food you like(q to quit):")
+ while not food =="q":
+                   
+num= int(input("Enter a # between 1-10:"))
+while num < 1 or num > 10:
+print(F"{num} is not valid")
+num= int(input(" ENter your number"))

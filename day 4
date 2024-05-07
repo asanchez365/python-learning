@@ -1,0 +1,17 @@
+grade= int(intput("What is your grade level?")
+if 10-12:
+print("Would you like to join science club?")
+else 9-12:
+print("would you like to join Drama Club?")
+activity= input("What activity would like to do?")
+print(activity)
+notification=input("Do you want to receive notifications?")
+print(notification)
+print("you chose" + notification)
+if yes:
+Print(" you will recieve notifications via email")
+else:
+print("you will not receive emails and notifications")
+position= input(" would you like to take a leadership role?")
+if yes:
+print("you will be considered for a leadership position")
