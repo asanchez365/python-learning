@@ -20,11 +20,11 @@
 #     print(x)
 #     x+=1
 
-While True:
-    print(" your name:")
-    name = input()
-    if name =='your name':
-        print("your name is"+ name)
-    break
-else:
-    print("Thank You")    
+# While True:
+#     print(" your name:")
+#     name = input()
+#     if name =='your name':
+#         print("your name is"+ name)
+#     break
+# else:
+#     print("Thank You")    
